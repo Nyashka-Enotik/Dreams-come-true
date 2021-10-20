@@ -121,7 +121,7 @@ display: grid;
 @media (max-width: 500px) {
   .three h1 {font-size: 1.8em;}
 }
-@media (max-width: 400px) {
+@media (max-width: 768px) {
   .three h1 {
     font-size: 1.5em;
     padding: 10px 30px;
